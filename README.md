@@ -2,4 +2,4 @@
 
 Building REST API for connecting to Flask server
 
-Project built using flask  flask_restful  flask_sqlalchemy 
+Project built using: flask,  flask_restful, and  flask_sqlalchemy 
