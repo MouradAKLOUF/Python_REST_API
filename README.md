@@ -3,3 +3,6 @@
 Building REST API for connecting to Flask server
 
 Project built using: flask,  flask_restful, and  flask_sqlalchemy 
+
+
+Client using THE API can add and query movies (or informations about movies) in  the database
